@@ -1,0 +1,25 @@
+body {
+color: rgb(15, 15, 15);
+font-family: Verdana, Geneva, Tahoma, sans-serif;   
+font-size: 1em;
+}
+
+h1 {
+ border: 20px;
+border: 20px, dotted, brown;
+border-radius: 20px;
+padding: 20px, 10px, 30px,40px;
+display: flex;
+flex-direction: column;
+}
+
+p {
+    background-color: rgb(194, 175, 238);
+    border: 20px;
+    border: 2px dotted brown;
+    border-radius: 20px;
+    padding: 20px 10px 30px 40px;
+    display: flex;
+    flex-direction: column;
+
+}
